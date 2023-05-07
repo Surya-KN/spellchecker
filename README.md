@@ -36,7 +36,7 @@ git clone https://github.com/Surya-KN/spellchecker.git
 
 ### Downloading the Zip File
 
-You can download the zip file by clicking on the "Code" button in the repository and selecting "Download ZIP".Then extract it to a new folder.
+Instead of cloning you can download the zip file by clicking on the "Code" button in the repository and selecting "Download ZIP".Then extract it to a new folder.
 
 ### Compiling and Running the Program
 
